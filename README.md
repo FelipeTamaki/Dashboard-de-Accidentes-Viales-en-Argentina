@@ -106,3 +106,23 @@ Los **conductores** representan la mayor proporción de víctimas, seguidos por:
 ---
 
 ## Estructura del proyecto
+
+Accidentes-Viales-Dashboard
+│
+├── dashboard.pbix
+├── dataset_accidentes.csv
+└── README.md
+
+
+---
+
+## Conclusiones
+
+El análisis permite identificar algunos patrones relevantes:
+
+- fuerte concentración de accidentes en ciertas provincias  
+- mayor ocurrencia en horarios específicos  
+- alta participación de motocicletas en los accidentes  
+- predominancia de colisiones entre vehículos  
+
+El dashboard permite **explorar los datos de forma interactiva y detectar áreas donde podrían implementarse políticas de prevención y seguridad vial**.
